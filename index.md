@@ -20,8 +20,9 @@ Til hver sesjon vil det være et tema. I kursplan er pensum angitt på datacamp 
 ## Faglærerinfo  
 
 - [Øystein Myrland](https://uit.no/ansatte/person?p_document_id=41412){:target="blank"} (fagansvarlig)
+- [Dejene, G.Kidane](https://uit.no/ansatte/person?p_document_id=559969){:target="blank"}
 - [Espen Sirnes](https://uit.no/ansatte/person?p_document_id=41418){:target="blank"}
-- Sondre Elvebakken Løvås <slo079@post.uit.no> er studentassistent
+-  er studentassistent
 
 ## Administrative spørsmål
 
