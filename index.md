@@ -2,7 +2,7 @@
 
 ## Kursplan  
 
-Kursplanen inneholder en kronologisk oversikt over de temaer som vi gjennomgår. Timeplanen viser tidspunkt og sted for forelesning/seminar. Alt materiale vil være tilgjengelig digitalt via Canvas og via kursplan.
+Kursplanen inneholder en kronologisk oversikt over de temaer som vi gjennomgår. Timeplanen viser tidspunkt og sted for forelesning/seminar. Alt materiale vil være tilgjengelig digitalt via Canvas og kursplan.
 
 - [Kursplan](kursplan.md){:target="blank"}
 
