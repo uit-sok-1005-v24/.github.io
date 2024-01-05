@@ -4,7 +4,7 @@
 
 Kursplanen inneholder en kronologisk oversikt over de temaer som vi gjennomgår. Timeplanen viser tidspunkt og sted for forelesning/seminar. Alt materiale vil være tilgjengelig digitalt via Canvas og kursplan.
 
-- [Kursplan](kursplan.md){:target="blank"}
+- [Kursplan](forelesningsplan.md){:target="blank"}
 
 [Timeplan](https://timeplan.uit.no/emne_timeplan.php?sem=24v&module[]=SOK-1005-1#week-49){:target="blank"} på timeplan.uit.no
 
