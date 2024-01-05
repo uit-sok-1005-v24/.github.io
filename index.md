@@ -20,7 +20,7 @@ Til hver sesjon vil det være et tema. I kursplan er pensum angitt på datacamp 
 - [Øystein Myrland](https://uit.no/ansatte/person?p_document_id=41412){:target="blank"} (fagansvarlig)
 - [Dejene, G.Kidane](https://uit.no/ansatte/person?p_document_id=559969){:target="blank"}
 - [Espen Sirnes](https://uit.no/ansatte/person?p_document_id=41418){:target="blank"}
-- Daniel Groth, er studentassistent. Kontaktes på: <dgr012@post.uit.no> eller <danielfabiogroth@gmail.com>.
+- Daniel Groth er studentassistent. Kontaktes på: <dgr012@post.uit.no> eller <danielfabiogroth@gmail.com>.
 
 ## Administrative spørsmål
 
