@@ -22,19 +22,20 @@ Til hver sesjon vil det være et tema. I kursplan er pensum angitt på datacamp 
 - [Øystein Myrland](https://uit.no/ansatte/person?p_document_id=41412){:target="blank"} (fagansvarlig)
 - [Dejene, G.Kidane](https://uit.no/ansatte/person?p_document_id=559969){:target="blank"}
 - [Espen Sirnes](https://uit.no/ansatte/person?p_document_id=41418){:target="blank"}
--  er studentassistent
+- [Daniel Groth] <dgr012@post.uit.no> eller <danielfabiogroth@gmail.com> er studentassistent.
 
 ## Administrative spørsmål
 
-For henvendelser av administrativ art send e-post til: <hhcampus@hjelp.uit.no>. Der får du hjelp av Handelshøgskolens administrasjon.
+Henvendelser om studiet i Tromsø, send e-post til: <hhcampus@hjelp.uit.no>. Generelle henvendelser; <hhtpost@bfe.uit.no>. 
+Her får du hjelp av Handelshøgskolens administrasjon.
 
 ## Pensum  
 
 [Leganto](https://bibsys-c.alma.exlibrisgroup.com/leganto/readinglist/lists/8897939560002205){:target="blank"}
 
-- [R for Data Science - online versjon av boka](https://r4ds.had.co.nz/){:target="blank"}
+- [R for Data Science (2ed) - online versjon av boka](https://r4ds.hadley.nz/){:target="blank"}
 
-- Moduler i [datacamp](https://app.datacamp.com/){:target="blank"}. Du finner oversikt i [kursplanen](kursplan.md){:target="blank"}. Innleveringsfristene er registrert i gruppen vår i datacamp. Når en frist går ut forsvinner kurset fra gruppen. Du må da gå inn i kurset direkte fra datacamp for å fullføre.
+- Moduler i [datacamp](https://app.datacamp.com/){:target="blank"}. Du finner oversikt i [kursplanen](kursplan.md){:target="blank"}. Innleveringsfristene vil bli registrert i gruppen vår på datacamp. Når en frist går ut forsvinner kurset fra gruppen. Du må da gå inn i kurset direkte fra datacamp for å fullføre.
 
 ## Kunngjøringer  
 
