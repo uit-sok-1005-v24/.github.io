@@ -19,12 +19,13 @@
 | | | Cleaning Data in R [datacamp](https://app.datacamp.com/learn/courses/cleaning-data-in-r){:target='_blank_'} |
 | | | Data Manipulation with dplyr [datacamp](https://app.datacamp.com/learn/courses/data-manipulation-with-dplyr){:target='_blank_'} |
 |  | **Deadline** | Levere [oppgave 1] |
-| 2/2 | 4 | *Joining data and R Markdown* |
+| 2/2 | 4 | *Joining data and R Markdown/Quarto* |
 | | | Kapittel 6, 7 og 8 [RfDC](https://r4ds.hadley.nz/){:target='_blank_'} |
 |      |   | Joining Data with dplyr [datacamp](https://app.datacamp.com/learn/courses/joining-data-with-dplyr){:target='_blank_'} |
 |      |   | Reporting with R Markdown [datacamp](https://app.datacamp.com/learn/courses/reporting-with-rmarkdown){:target='_blank_'} |
 |      |   | R Markdown from RStudio [15 lessons with videos](https://rmarkdown.rstudio.com/lesson-1.html){:target='_blank_'} |
-|  | **Deadline** | Levere [oppgave 2](https://docs.google.com/document/d/e/2PACX-1vSnjNmJKj3q4GOTMWDg99hAwou9hxhYjsg5blfNIvAZRbOwGyjHSz3NkNUApIaIqJnREd99iMVqSKGj/pub){:target='_blank_'} i github |
+|      |   | [Quarto](https://quarto.org/){:target='_blank_'}               |
+|  | **Deadline** | Levere [oppgave 2] |
 | 5/2 | 5 | *Web scraping with R* |
 | | | Kapittel 12 og 13 [RfDC](https://r4ds.hadley.nz/){:target='_blank_'} |
 |      |   | Web Scraping in R [datacamp](https://app.datacamp.com/learn/courses/web-scraping-in-r){:target='_blank_'} |
