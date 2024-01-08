@@ -26,10 +26,7 @@
 |      |   | R Markdown from RStudio [15 lessons with videos](https://rmarkdown.rstudio.com/lesson-1.html){:target='_blank_'} |
 |      |   | [Quarto](https://quarto.org/){:target='_blank_'}               |
 |  | **Deadline** | Levere [oppgave 2] |
-| 5/2 | 5 | *Web scraping with R* |
-| | | Kapittel 12 og 13 [RfDC](https://r4ds.hadley.nz/){:target='_blank_'} |
-|      |   | Web Scraping in R [datacamp](https://app.datacamp.com/learn/courses/web-scraping-in-r){:target='_blank_'} |
-|      |   | Working with Web Data in R [datacamp](https://app.datacamp.com/learn/courses/working-with-web-data-in-r){:target='_blank_'} |
+| 5/2 | 5 | *To be decided* |
 | 16/2 | 6 | *Data Visualization*  |
 |      |   | Kapittel 28 [RfDC](https://r4ds.hadley.nz/){:target='_blank_'} |
 |      |   | Introduction to Data Visualization with ggplot2 [datacamp](https://app.datacamp.com/learn/courses/data-visualization-with-ggplot2-1){:target='_blank_'} |
@@ -56,4 +53,8 @@
 |      |   | Kapittel 29 og 30 [RfDC](https://r4ds.hadley.nz/){:target='_blank_'} |
 |  |  | Intermediate Functional Programming with purrr [datacamp](https://app.datacamp.com/learn/courses/intermediate-functional-programming-with-purrr){:target='_blank_'} |   
 |  |  | Building Dashboards with shinydashboard [datacamp](https://app.datacamp.com/learn/courses/building-dashboards-with-shinydashboard){:target='_blank_'} | 
+| 5/4 | 12 | *Python 1* |
+| 12/4 | 13 | *Python 2* |
+| 19/4 | 14 | *Python 3* |
+| 26/4 | 15 | *Python 4* |
 
