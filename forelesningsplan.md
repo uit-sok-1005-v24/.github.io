@@ -4,7 +4,10 @@
 
 | Dato <img width=80/>  | Sesjon  |  Tema/Ressurser <img width=200/>  |
 |-----------------------|---------|-----------------------------------| 
-| 12/1  | 1  |  *Introduksjon* | 
+| 12/1  | 1  |  *Introduksjon* |
+| | | Tutorials for R for Data Science (2e) |
+| | | Installer: install.packages("r4ds.tutorials")  |
+| | | Kjør: library(r4ds.tutorials)  |
 | | | Seksjon "Introduction" og "Whole game" i [RfDC](https://r4ds.hadley.nz/){:target='_blank_'} | 
 | | | Introduction to R [datacamp](https://app.datacamp.com/learn/courses/free-introduction-to-r){:target='_blank_'} |
 | | | Introduction to the Tidyverse [datacamp](https://app.datacamp.com/learn/courses/introduction-to-the-tidyverse){:target='_blank_'} |
