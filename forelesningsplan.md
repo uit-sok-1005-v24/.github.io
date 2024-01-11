@@ -5,10 +5,10 @@
 | Dato <img width=80/>  | Sesjon  |  Tema/Ressurser <img width=200/>  |
 |-----------------------|---------|-----------------------------------| 
 | 12/1  | 1  |  *Introduksjon* |
+| | | Seksjon "Introduction" og "Whole game" i R for Data Science (2e) [RfDC](https://r4ds.hadley.nz/){:target='_blank_'} | 
 | | | Tutorials for R for Data Science (2e) |
 | | | Installer: install.packages("r4ds.tutorials")  |
 | | | Kjør: library(r4ds.tutorials)  |
-| | | Seksjon "Introduction" og "Whole game" i [RfDC](https://r4ds.hadley.nz/){:target='_blank_'} | 
 | | | Introduction to R [datacamp](https://app.datacamp.com/learn/courses/free-introduction-to-r){:target='_blank_'} |
 | | | Introduction to the Tidyverse [datacamp](https://app.datacamp.com/learn/courses/introduction-to-the-tidyverse){:target='_blank_'} |
 | | | Her finner du en liten digital bok om Tidyverse, [The Tidyverse Cookbook](https://rstudio-education.github.io/tidyverse-cookbook/){:target='_blank_'} |
