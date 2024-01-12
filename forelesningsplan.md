@@ -12,6 +12,7 @@
 | | | Introduction to R [datacamp](https://app.datacamp.com/learn/courses/free-introduction-to-r){:target='_blank_'} |
 | | | Introduction to the Tidyverse [datacamp](https://app.datacamp.com/learn/courses/introduction-to-the-tidyverse){:target='_blank_'} |
 | | | Her finner du en liten digital bok om Tidyverse, [The Tidyverse Cookbook](https://rstudio-education.github.io/tidyverse-cookbook/){:target='_blank_'} |
+| | | [R kode fra forelesning (+ "litt til")](https://raw.githubusercontent.com/uit-sok-1005-v24/uit-sok-1005-v24.github.io/main/first_code.R){:target='_blank_'}   |
 | 19/1 | 2 | *Importere data i R* |
 | | | Seksjon "Import" i [RfDC](https://r4ds.hadley.nz/){:target='_blank_'} |
 | | | Introduction to Importing Data in R [datacamp](https://app.datacamp.com/learn/courses/importing-data-in-r-part-1){:target='_blank_'} |
