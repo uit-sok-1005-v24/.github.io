@@ -52,8 +52,9 @@
 | 22/3 | 11 | *More on purrr and introducing shiny* |
 |  |  | Intermediate Functional Programming with purrr [datacamp](https://app.datacamp.com/learn/courses/intermediate-functional-programming-with-purrr){:target='_blank_'} |   
 |  |  | Building Dashboards with shinydashboard [datacamp](https://app.datacamp.com/learn/courses/building-dashboards-with-shinydashboard){:target='_blank_'} | 
-| 5/4 | 12 | *Python 1* |
-| 12/4 | 13 | *Python 2* |
-| 19/4 | 14 | *Python 3* |
-| 26/4 | 15 | *Python 4* |
+| 5/4 | 12 | (8 - Git, IDE'er og et lite spill)[https://espensirnes.github.io/notebooks/html/8%20-%20Git,%20IDE'er%20og%20et%20lite%20spill.html] |
+| 12/4 | 13 | (9 - webskraping med python)[https://espensirnes.github.io/notebooks/html/9%20-%20webskraping%20med%20python.html] |
+| 19/4 | 14 | (10 - statsmodels)[https://espensirnes.github.io/notebooks/html/10%20-%20statsmodels.html] |
+| 26/4 | 15 | (11 - interaktive websider)[https://espensirnes.github.io/notebooks/html/11%20-%20interaktive%20websider.html]|
+| kommer | 16 | (12 - animasjon og klasse)[https://espensirnes.github.io/notebooks/html/12%20-%20animasjon%20med%20klasse.html]|
 
