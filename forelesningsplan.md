@@ -23,7 +23,7 @@
 | | | Seksjon "Transform" i [RfDC](https://r4ds.hadley.nz/){:target='_blank_'} |
 | | | Cleaning Data in R [datacamp](https://app.datacamp.com/learn/courses/cleaning-data-in-r){:target='_blank_'} |
 | | | Data Manipulation with dplyr [datacamp](https://app.datacamp.com/learn/courses/data-manipulation-with-dplyr){:target='_blank_'} |
-| 31/1 | **Deadline** | Levere obligatorisk [Mappeoppgave 1](https://uit-sok-1005-v24.github.io/uit-sok-1005-v24/oppgave_1_global_temp.pdf){:target='_blank_'}  |
+| 31/1 | **Deadline** | Levere obligatorisk [Mappeoppgave 1](https://uit-sok-1005-v24.github.io/oppgave_1_global_temp.pdf){:target='_blank_'}  |
 | 2/2 | 4 | *Joining data and R Markdown/Quarto* |
 | | | Seksjon "Communicate" i [RfDC](https://r4ds.hadley.nz/){:target='_blank_'} |
 |      |   | Joining Data with dplyr [datacamp](https://app.datacamp.com/learn/courses/joining-data-with-dplyr){:target='_blank_'} |
