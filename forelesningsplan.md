@@ -18,11 +18,12 @@
 | | | Introduction to Importing Data in R [datacamp](https://app.datacamp.com/learn/courses/importing-data-in-r-part-1){:target='_blank_'} |
 | | | Intermediate Importing Data in R [datacamp](https://app.datacamp.com/learn/courses/importing-data-in-r-part-2){:target='_blank_'} |
 | | | Alle online bøker om R samlet på ett sted i [Big Book of R](https://www.bigbookofr.com/index.html){:target='_blank_'} | 
+| | | [R kode fra forelesning](https://raw.githubusercontent.com/uit-sok-1005-v24/uit-sok-1005-v24.github.io/main/static_web_txt.R){:target='_blank_'}   |
 | 26/1 | 3 | *Data Wrangling intro* |
 | | | Seksjon "Transform" i [RfDC](https://r4ds.hadley.nz/){:target='_blank_'} |
 | | | Cleaning Data in R [datacamp](https://app.datacamp.com/learn/courses/cleaning-data-in-r){:target='_blank_'} |
 | | | Data Manipulation with dplyr [datacamp](https://app.datacamp.com/learn/courses/data-manipulation-with-dplyr){:target='_blank_'} |
-|  | **Deadline** | Levere [oppgave 1] |
+| 31/1 | **Deadline** | Levere obligatorisk [Mappeoppgave 1]  |
 | 2/2 | 4 | *Joining data and R Markdown/Quarto* |
 | | | Seksjon "Communicate" i [RfDC](https://r4ds.hadley.nz/){:target='_blank_'} |
 |      |   | Joining Data with dplyr [datacamp](https://app.datacamp.com/learn/courses/joining-data-with-dplyr){:target='_blank_'} |
