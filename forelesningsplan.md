@@ -30,11 +30,11 @@
 |      |   | Reporting with R Markdown [datacamp](https://app.datacamp.com/learn/courses/reporting-with-rmarkdown){:target='_blank_'} |
 |      |   | R Markdown from RStudio [15 lessons with videos](https://rmarkdown.rstudio.com/lesson-1.html){:target='_blank_'} |
 |      |   | [Quarto](https://quarto.org/){:target='_blank_'}               |
-| 5/2 | 6 | *Data Visualization*  |
+| 5/2 | 5 | *Data Visualization*  |
 |      |   | Seksjon "Visualize" i [RfDC](https://r4ds.hadley.nz/){:target='_blank_'} |
 |      |   | Introduction to Data Visualization with ggplot2 [datacamp](https://app.datacamp.com/learn/courses/data-visualization-with-ggplot2-1){:target='_blank_'} |
 |      |   | Intermediate Data Visualization with ggplot2 [datacamp](https://app.datacamp.com/learn/courses/data-visualization-with-ggplot2-2){:target='_blank_'} |
-| 5/2 | 5 | *To be decided* |
+| 5/2 | 6 | *To be decided* |
 | Dato ikke satt enda | **Deadline** | Levere [oppgave 2] |
 | 23/2 | 7 | *Data Wrangling* |
 | | | Working with Data in the Tidyverse [datacamp](https://app.datacamp.com/learn/courses/working-with-data-in-the-tidyverse){:target='_blank_'} |
