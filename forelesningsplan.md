@@ -23,6 +23,8 @@
 | | | Seksjon "Transform" i [RfDC](https://r4ds.hadley.nz/){:target='_blank_'} |
 | | | Cleaning Data in R [datacamp](https://app.datacamp.com/learn/courses/cleaning-data-in-r){:target='_blank_'} |
 | | | Data Manipulation with dplyr [datacamp](https://app.datacamp.com/learn/courses/data-manipulation-with-dplyr){:target='_blank_'} |
+| | | [Mer om global temperatuR](https://raw.githubusercontent.com/uit-sok-1005-v24/uit-sok-1005-v24.github.io/main/static_web_txt_more_advanced.R){:target='_blank_'}   |
+| | | [Tyrkisk rente](https://raw.githubusercontent.com/uit-sok-1005-v24/uit-sok-1005-v24.github.io/main/turkish_interest_rates.R){:target='_blank_'}   |
 | 31/1 | **Deadline** | Levere obligatorisk [Mappeoppgave 1](https://uit-sok-1005-v24.github.io/oppgave_1_global_temp.pdf){:target='_blank_'}  |
 | 2/2 | 4 | *Joining data and R Markdown/Quarto* |
 | | | Seksjon "Communicate" i [RfDC](https://r4ds.hadley.nz/){:target='_blank_'} |
