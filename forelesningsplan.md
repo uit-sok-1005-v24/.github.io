@@ -25,7 +25,6 @@
 | | | Data Manipulation with dplyr [datacamp](https://app.datacamp.com/learn/courses/data-manipulation-with-dplyr){:target='_blank_'} |
 | | | [Mer om global temperatuR](https://raw.githubusercontent.com/uit-sok-1005-v24/uit-sok-1005-v24.github.io/main/static_web_txt_more_advanced.R){:target='_blank_'}   |
 | | | [code from class: Mer om global temperatuR](https://raw.githubusercontent.com/uit-sok-1005-v24/uit-sok-1005-v24.github.io/main/code_from_class.R){:target='_blank_'}   |
-| | | [Tyrkisk rente](https://raw.githubusercontent.com/uit-sok-1005-v24/uit-sok-1005-v24.github.io/main/turkish_interest_rates.R){:target='_blank_'}   |
 | 31/1 | **Deadline** | Levere obligatorisk [Mappeoppgave 1](https://uit-sok-1005-v24.github.io/oppgave_1_global_temp.pdf){:target='_blank_'}  |
 | 2/2 | 4 | *Joining data and R Markdown/Quarto* |
 | | | Seksjon "Communicate" i [RfDC](https://r4ds.hadley.nz/){:target='_blank_'} |
@@ -33,6 +32,8 @@
 |      |   | Reporting with R Markdown [datacamp](https://app.datacamp.com/learn/courses/reporting-with-rmarkdown){:target='_blank_'} |
 |      |   | R Markdown from RStudio [15 lessons with videos](https://rmarkdown.rstudio.com/lesson-1.html){:target='_blank_'} |
 |      |   | [Quarto](https://quarto.org/){:target='_blank_'}               |
+| | | [Tyrkisk rente](https://raw.githubusercontent.com/uit-sok-1005-v24/uit-sok-1005-v24.github.io/main/turkish_interest_rates.R){:target='_blank_'}   |
+
 | 5/2 | 5 | *Data Visualization*  |
 |      |   | Seksjon "Visualize" i [RfDC](https://r4ds.hadley.nz/){:target='_blank_'} |
 |      |   | Introduction to Data Visualization with ggplot2 [datacamp](https://app.datacamp.com/learn/courses/data-visualization-with-ggplot2-1){:target='_blank_'} |
