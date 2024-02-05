@@ -61,5 +61,5 @@
 | 12/4 | 13 | [9 - webskraping med python](https://espensirnes.github.io/notebooks/html/9%20-%20webskraping%20med%20python.html) |
 | 19/4 | 14 | [10 - statsmodels](https://espensirnes.github.io/notebooks/html/10%20-%20statsmodels.html) |
 | 26/4 | 15 | [11 - interaktive websider](https://espensirnes.github.io/notebooks/html/11%20-%20interaktive%20websider.html)|
-| kommer | 16 | [12 - animasjon og klasse](https://espensirnes.github.io/notebooks/html/12%20-%20animasjon%20med%20klasse.html)|
+| 30/4 | 16 | [12 - animasjon og klasse](https://espensirnes.github.io/notebooks/html/12%20-%20animasjon%20med%20klasse.html)|
 
