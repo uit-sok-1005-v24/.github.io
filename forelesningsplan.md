@@ -29,7 +29,7 @@
 | 2/2 | 4 | *Joining and wrangling data* |
 | | | Seksjon "Communicate" i [RfDC](https://r4ds.hadley.nz/){:target='_blank_'} |
 |      |   | Joining Data with dplyr [datacamp](https://app.datacamp.com/learn/courses/joining-data-with-dplyr){:target='_blank_'} |
-|      |   | Reporting with R Markdown [datacamp](https://app.datacamp.com/learn/courses/reporting-with-rmarkdown){:target='_blank_'} |
+|      |   | Communicating with data in the tidyverse [datacamp](https://app.datacamp.com/learn/courses/communicating-with-data-in-the-tidyverse){:target='_blank_'} |
 | | | [Tyrkisk rente](https://raw.githubusercontent.com/uit-sok-1005-v24/uit-sok-1005-v24.github.io/main/turkish_interest_rates.R){:target='_blank_'}   |
 | | | [superstore](https://raw.githubusercontent.com/uit-sok-1005-v24/uit-sok-1005-v24.github.io/main/superstore.R){:target='_blank_'}   |
 | 9/2 | 5 | *Data Visualization*  |
@@ -55,6 +55,7 @@
 |  |  | Intermediate Functional Programming with purrr [datacamp](https://app.datacamp.com/learn/courses/intermediate-functional-programming-with-purrr){:target='_blank_'} |   
 |  |  | Building Dashboards with shinydashboard [datacamp](https://app.datacamp.com/learn/courses/building-dashboards-with-shinydashboard){:target='_blank_'} | 
 | 22/3 | 11 | *R Markdown/Quarto* |
+|      |   | Reporting with R Markdown [datacamp](https://app.datacamp.com/learn/courses/reporting-with-rmarkdown){:target='_blank_'} |
 |      |   | R Markdown from RStudio [15 lessons with videos](https://rmarkdown.rstudio.com/lesson-1.html){:target='_blank_'} |
 |      |   | [Quarto](https://quarto.org/){:target='_blank_'}               |
 | 5/4 | 12 | [8 - Git, IDE'er og et lite spill](https://espensirnes.github.io/notebooks/html/8%20-%20Git,%20IDE'er%20og%20et%20lite%20spill.html) |
