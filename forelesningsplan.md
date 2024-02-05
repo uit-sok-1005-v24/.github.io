@@ -26,19 +26,17 @@
 | | | [Mer om global temperatuR](https://raw.githubusercontent.com/uit-sok-1005-v24/uit-sok-1005-v24.github.io/main/static_web_txt_more_advanced.R){:target='_blank_'}   |
 | | | [code from class: Mer om global temperatuR](https://raw.githubusercontent.com/uit-sok-1005-v24/uit-sok-1005-v24.github.io/main/code_from_class.R){:target='_blank_'}   |
 | 31/1 | **Deadline** | Levere obligatorisk [Mappeoppgave 1](https://uit-sok-1005-v24.github.io/oppgave_1_global_temp.pdf){:target='_blank_'}  |
-| 2/2 | 4 | *Joining data and R Markdown/Quarto* |
+| 2/2 | 4 | *Joining and wrangling data* |
 | | | Seksjon "Communicate" i [RfDC](https://r4ds.hadley.nz/){:target='_blank_'} |
 |      |   | Joining Data with dplyr [datacamp](https://app.datacamp.com/learn/courses/joining-data-with-dplyr){:target='_blank_'} |
 |      |   | Reporting with R Markdown [datacamp](https://app.datacamp.com/learn/courses/reporting-with-rmarkdown){:target='_blank_'} |
-|      |   | R Markdown from RStudio [15 lessons with videos](https://rmarkdown.rstudio.com/lesson-1.html){:target='_blank_'} |
-|      |   | [Quarto](https://quarto.org/){:target='_blank_'}               |
 | | | [Tyrkisk rente](https://raw.githubusercontent.com/uit-sok-1005-v24/uit-sok-1005-v24.github.io/main/turkish_interest_rates.R){:target='_blank_'}   |
 | | | [superstore](https://raw.githubusercontent.com/uit-sok-1005-v24/uit-sok-1005-v24.github.io/main/superstore.R){:target='_blank_'}   |
 | 9/2 | 5 | *Data Visualization*  |
 |      |   | Seksjon "Visualize" i [RfDC](https://r4ds.hadley.nz/){:target='_blank_'} |
 |      |   | Introduction to Data Visualization with ggplot2 [datacamp](https://app.datacamp.com/learn/courses/data-visualization-with-ggplot2-1){:target='_blank_'} |
 |      |   | Intermediate Data Visualization with ggplot2 [datacamp](https://app.datacamp.com/learn/courses/data-visualization-with-ggplot2-2){:target='_blank_'} |
-| 16/2 | 6 | *Data Wrangling* |
+| 16/2 | 6 | *More on Data Wrangling* |
 | | | Working with Data in the Tidyverse [datacamp](https://app.datacamp.com/learn/courses/working-with-data-in-the-tidyverse){:target='_blank_'} |
 | | | Reshaping Data with tidyr [datacamp](https://app.datacamp.com/learn/courses/data-visualization-with-ggplot2-2){:target='_blank_'} |
 | Dato ikke satt enda | **Deadline** | Levere [oppgave 2] |
@@ -56,7 +54,9 @@
 | 15/3 | 10 | *More on purrr and introducing shiny* |
 |  |  | Intermediate Functional Programming with purrr [datacamp](https://app.datacamp.com/learn/courses/intermediate-functional-programming-with-purrr){:target='_blank_'} |   
 |  |  | Building Dashboards with shinydashboard [datacamp](https://app.datacamp.com/learn/courses/building-dashboards-with-shinydashboard){:target='_blank_'} | 
-| 22/3 | 11 | *Tema ikke bestemt enda* |
+| 22/3 | 11 | *R Markdown/Quarto* |
+|      |   | R Markdown from RStudio [15 lessons with videos](https://rmarkdown.rstudio.com/lesson-1.html){:target='_blank_'} |
+|      |   | [Quarto](https://quarto.org/){:target='_blank_'}               |
 | 5/4 | 12 | [8 - Git, IDE'er og et lite spill](https://espensirnes.github.io/notebooks/html/8%20-%20Git,%20IDE'er%20og%20et%20lite%20spill.html) |
 | 12/4 | 13 | [9 - webskraping med python](https://espensirnes.github.io/notebooks/html/9%20-%20webskraping%20med%20python.html) |
 | 19/4 | 14 | [10 - statsmodels](https://espensirnes.github.io/notebooks/html/10%20-%20statsmodels.html) |
