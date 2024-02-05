@@ -37,7 +37,7 @@
 |      |   | Introduction to Data Visualization with ggplot2 [datacamp](https://app.datacamp.com/learn/courses/data-visualization-with-ggplot2-1){:target='_blank_'} |
 |      |   | Intermediate Data Visualization with ggplot2 [datacamp](https://app.datacamp.com/learn/courses/data-visualization-with-ggplot2-2){:target='_blank_'} |
 | 16/2 | 6 | *More on Data Wrangling* |
-| | | Working with Data in the Tidyverse [datacamp](https://app.datacamp.com/learn/courses/working-with-data-in-the-tidyverse){:target='_blank_'} |
+| | | Data manipulation with dplyr [datacamp](https://app.datacamp.com/learn/courses/data-manipulation-with-dplyr){:target='_blank_'} |
 | | | Reshaping Data with tidyr [datacamp](https://app.datacamp.com/learn/courses/data-visualization-with-ggplot2-2){:target='_blank_'} |
 | Dato ikke satt enda | **Deadline** | Levere [oppgave 2] |
 | 23/2 | 7 | *Dates, Time and Strings* |
