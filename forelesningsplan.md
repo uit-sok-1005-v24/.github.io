@@ -55,6 +55,7 @@
 |  |  | Intermediate Functional Programming with purrr [datacamp](https://app.datacamp.com/learn/courses/intermediate-functional-programming-with-purrr){:target='_blank_'} |   
 |  |  | Building Dashboards with shinydashboard [datacamp](https://app.datacamp.com/learn/courses/building-dashboards-with-shinydashboard){:target='_blank_'} | 
 | 22/3 | 11 | *R Markdown/Quarto* |
+|  |  | Building web applications with shiny in r [datacamp](https://app.datacamp.com/learn/courses/building-web-applications-with-shiny-in-r){:target='_blank_'} | 
 |      |   | Reporting with R Markdown [datacamp](https://app.datacamp.com/learn/courses/reporting-with-rmarkdown){:target='_blank_'} |
 |      |   | R Markdown from RStudio [15 lessons with videos](https://rmarkdown.rstudio.com/lesson-1.html){:target='_blank_'} |
 |      |   | [Quarto](https://quarto.org/){:target='_blank_'}               |
