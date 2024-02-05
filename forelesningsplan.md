@@ -46,7 +46,7 @@
 | Dato ikke satt enda  | **Deadline** | Levere [oppgave 3]  |
 | 1/3 | 8 | *Categorical Data and Communicating with Data* |
 |  |  | Categorical Data in the Tidyverse [datacamp](https://app.datacamp.com/learn/courses/categorical-data-in-the-tidyverse){:target='_blank_'} |
-|  |  |  |
+|  |  | Exploratory data analysis in r [datacamp](https://app.datacamp.com/learn/courses/exploratory-data-analysis-in-r){:target='_blank_'} |
 | 8/3 | 9 | *Functions and functional programming* |
 |      |    | Seksjon "Program" i [RfDC](https://r4ds.hadley.nz/){:target='_blank_'} |
 |  |  | Introduction to Writing Functions in R [datacamp](https://app.datacamp.com/learn/courses/introduction-to-writing-functions-in-r){:target='_blank_'} |   
