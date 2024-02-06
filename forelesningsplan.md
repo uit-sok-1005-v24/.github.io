@@ -39,14 +39,13 @@
 | 16/2 | 6 | *More on Data Wrangling* |
 | | | Reshaping Data with tidyr [datacamp](https://app.datacamp.com/learn/courses/reshaping-data-with-tidyr){:target='_blank_'} |
 | | | Programming with dplyr [datacamp](https://app.datacamp.com/learn/courses/programming-with-dplyr){:target='_blank_'} |
-| Dato ikke satt enda | **Deadline** | Levere [oppgave 2] |
 | 23/2 | 7 | *Dates, Time and Strings* |
 |      |   | Working with Dates and Times in R [datacamp](https://app.datacamp.com/learn/courses/working-with-dates-and-times-in-r){:target='_blank_'} |
 |      |   | String Manipulation with stringr in R [datacamp](https://app.datacamp.com/learn/courses/string-manipulation-with-stringr-in-r){:target='_blank_'} |
-| Dato ikke satt enda  | **Deadline** | Levere [oppgave 3]  |
 | 1/3 | 8 | *Categorical Data and Communicating with Data* |
 |  |  | Categorical Data in the Tidyverse [datacamp](https://app.datacamp.com/learn/courses/categorical-data-in-the-tidyverse){:target='_blank_'} |
 |  |  | Exploratory data analysis in r [datacamp](https://app.datacamp.com/learn/courses/exploratory-data-analysis-in-r){:target='_blank_'} |
+| 1/3 | **Deadline** | Levere obligatorisk [Mappeoppgave 2](https://uit-sok-1005-v24.github.io/us_births.pdf){:target='_blank_'} |
 | 8/3 | 9 | *Functions and functional programming* |
 |      |    | Seksjon "Program" i [RfDC](https://r4ds.hadley.nz/){:target='_blank_'} |
 |  |  | Introduction to Writing Functions in R [datacamp](https://app.datacamp.com/learn/courses/introduction-to-writing-functions-in-r){:target='_blank_'} |   
@@ -59,6 +58,7 @@
 |      |   | Reporting with R Markdown [datacamp](https://app.datacamp.com/learn/courses/reporting-with-rmarkdown){:target='_blank_'} |
 |      |   | R Markdown from RStudio [15 lessons with videos](https://rmarkdown.rstudio.com/lesson-1.html){:target='_blank_'} |
 |      |   | [Quarto](https://quarto.org/){:target='_blank_'}               |
+| Dato ikke satt enda  | **Deadline** | Levere [oppgave 3]  |
 | 5/4 | 12 | [8 - Git, IDE'er og et lite spill](https://espensirnes.github.io/notebooks/html/8%20-%20Git,%20IDE'er%20og%20et%20lite%20spill.html) |
 | 12/4 | 13 | [9 - webskraping med python](https://espensirnes.github.io/notebooks/html/9%20-%20webskraping%20med%20python.html) |
 | 19/4 | 14 | [10 - statsmodels](https://espensirnes.github.io/notebooks/html/10%20-%20statsmodels.html) |
