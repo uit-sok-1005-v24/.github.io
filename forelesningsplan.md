@@ -26,6 +26,7 @@
 | | | [Mer om global temperatuR](https://raw.githubusercontent.com/uit-sok-1005-v24/uit-sok-1005-v24.github.io/main/static_web_txt_more_advanced.R){:target='_blank_'}   |
 | | | [code from class: Mer om global temperatuR](https://raw.githubusercontent.com/uit-sok-1005-v24/uit-sok-1005-v24.github.io/main/code_from_class.R){:target='_blank_'}   |
 | 31/1 | **Deadline** | Levere obligatorisk [Mappeoppgave 1](https://uit-sok-1005-v24.github.io/oppgave_1_global_temp.pdf){:target='_blank_'}  |
+|||[Solution til Mappeoppgave 1](https://raw.githubusercontent.com/uit-sok-1005-v24/uit-sok-1005-v24.github.io/main/oppgave_1.R){:target='_blank_'}|
 | 2/2 | 4 | *Joining and wrangling data* |
 | | | Seksjon "Communicate" i [RfDC](https://r4ds.hadley.nz/){:target='_blank_'} |
 |      |   | Joining Data with dplyr [datacamp](https://app.datacamp.com/learn/courses/joining-data-with-dplyr){:target='_blank_'} |
