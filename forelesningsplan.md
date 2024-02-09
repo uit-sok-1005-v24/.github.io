@@ -37,6 +37,7 @@
 |      |   | Seksjon "Visualize" i [RfDC](https://r4ds.hadley.nz/){:target='_blank_'} |
 |      |   | Introduction to Data Visualization with ggplot2 [datacamp](https://app.datacamp.com/learn/courses/data-visualization-with-ggplot2-1){:target='_blank_'} |
 |      |   | Intermediate Data Visualization with ggplot2 [datacamp](https://app.datacamp.com/learn/courses/data-visualization-with-ggplot2-2){:target='_blank_'} |
+|||[R codes on data visualization](https://raw.githubusercontent.com/uit-sok-1005-v24/uit-sok-1005-v24.github.io/main/Data_visualization_updated.R){:target='_blank_'}|
 | 16/2 | 6 | *More on Data Wrangling* |
 | | | Reshaping Data with tidyr [datacamp](https://app.datacamp.com/learn/courses/reshaping-data-with-tidyr){:target='_blank_'} |
 | | | Programming with dplyr [datacamp](https://app.datacamp.com/learn/courses/programming-with-dplyr){:target='_blank_'} |
