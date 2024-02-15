@@ -41,6 +41,7 @@
 | 16/2 | 6 | *More on Data Wrangling* |
 | | | Reshaping Data with tidyr [datacamp](https://app.datacamp.com/learn/courses/reshaping-data-with-tidyr){:target='_blank_'} |
 | | | Programming with dplyr [datacamp](https://app.datacamp.com/learn/courses/programming-with-dplyr){:target='_blank_'} |
+|||[Some questions on Data wrangling](https://github.com/uit-sok-1005-v24/uit-sok-1005-v24.github.io/blob/main/Data_wrangling_Exercise.R){:target='_blank_'}|
 | 23/2 | 7 | *Dates, Time and Strings* |
 |      |   | Working with Dates and Times in R [datacamp](https://app.datacamp.com/learn/courses/working-with-dates-and-times-in-r){:target='_blank_'} |
 |      |   | String Manipulation with stringr in R [datacamp](https://app.datacamp.com/learn/courses/string-manipulation-with-stringr-in-r){:target='_blank_'} |
