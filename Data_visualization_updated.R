@@ -78,7 +78,7 @@ superstore <- superstore %>% clean_names()
 # Average profit over time per province   
  superstore %>%
   mutate(year_month = floor_date(order_date, unit = "month"),
-         your.month  = update(order_date, day = 1)) %>% 
+         year.month  = update(order_date, day = 1)) %>% 
   group_by(year_month, province) %>% 
   summarise(mean.profit = mean(profit)) %>% 
   ggplot(mapping=aes(x= year_month, 
