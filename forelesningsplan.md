@@ -45,6 +45,10 @@
 | 23/2 | 7 | *Dates, Time and Strings* |
 |      |   | Working with Dates and Times in R [datacamp](https://app.datacamp.com/learn/courses/working-with-dates-and-times-in-r){:target='_blank_'} |
 |      |   | String Manipulation with stringr in R [datacamp](https://app.datacamp.com/learn/courses/string-manipulation-with-stringr-in-r){:target='_blank_'} |
+|||[Working with dates](https://github.com/uit-sok-1005-v24/uit-sok-1005-v24.github.io/blob/main/Working_with_dates.R){:target='_blank_'}|
+|||[Dates and time](https://github.com/uit-sok-1005-v24/uit-sok-1005-v24.github.io/blob/main/Dates_and_times_lubridate.R){:target='_blank_'}|
+|||[Working with time series](https://github.com/uit-sok-1005-v24/uit-sok-1005-v24.github.io/blob/main/Working_with_time_series.R){:target='_blank_'}|
+|||[String](https://github.com/uit-sok-1005-v24/uit-sok-1005-v24.github.io/blob/main/Strings.R){:target='_blank_'}|
 | 1/3 | 8 | *Categorical Data and Communicating with Data* |
 |  |  | Categorical Data in the Tidyverse [datacamp](https://app.datacamp.com/learn/courses/categorical-data-in-the-tidyverse){:target='_blank_'} |
 |  |  | Exploratory data analysis in r [datacamp](https://app.datacamp.com/learn/courses/exploratory-data-analysis-in-r){:target='_blank_'} |
