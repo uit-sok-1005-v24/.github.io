@@ -5,6 +5,8 @@
 # text
 # manipulating character vectors
 
+# cheetsheet:
+#browseURL("https://evoldyn.gitlab.io/evomics-2018/ref-sheets/R_strings.pdf")
 
 rm(list = ls())
 library(tidyverse)
