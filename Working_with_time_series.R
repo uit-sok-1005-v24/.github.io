@@ -165,6 +165,15 @@ library(tsibble)
 # index: a variable that represents time
 # key: identifying variables that define series
 
+# Interval	Class
+# --------------------
+# Annual	integer/double
+# Quarterly	yearquarter
+# Monthly	yearmonth
+# Weekly	yearweek
+# Daily	Date/difftime
+# Subdaily	POSIXt/difftime/hms
+
 # You cab read more about Tsibble On: 
 browseURL("https://cran.rstudio.com/web/packages/tsibble/vignettes/intro-tsibble.html")
 browseURL("https://github.com/tidyverts/tsibble")
@@ -181,14 +190,6 @@ browseURL("https://blog.earo.me/2018/02/06/tsibble-or-tibbletime/")
 head(oil)
 str(oil)
 
-# Interval	Class
-# --------------------
-# Annual	integer/double
-# Quarterly	yearquarter
-# Monthly	yearmonth
-# Weekly	yearweek
-# Daily	Date/difftime
-# Subdaily	POSIXt/difftime/hms
 
 oil_month <- as_tsibble(oil, index = Date) %>% 
   index_by(year_month=yearmonth(Date)) %>% # monthly aggregates
