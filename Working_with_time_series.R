@@ -1,29 +1,41 @@
 
 rm(list=ls())
 
+library(quantmod)
 library(Quandl)
 library(tidyverse)
 
-# Read Quandl data
-browseURL("https://www.quandl.com/tools/r")
-#browseURL("https://algotrading101.com/learn/quandl-guide/")
+# Import the Daily crude oil prices: Brent - Europe (DCOILBRENTEU) from FRED
+#browseURL("https://fred.stlouisfed.org/series/DCOILBRENTEU")
 
-#########
-# Daily crude oil prices
-#########
-browseURL("https://www.quandl.com/data/OPEC/ORB-OPEC-Crude-Oil-Price")
+loadSymbols("DCOILBRENTEU", src="FRED")
 
-oil <- Quandl("OPEC/ORB")
+oil <- DCOILBRENTEU %>% 
+  data.frame() %>% 
+  rownames_to_column(var ="date") %>% 
+  rename(Value =DCOILBRENTEU) 
+
+head(oil) 
+#View(oil) # NA's  
 
 # copy oil data
 dframe <- oil
+# Try replacing NA's with previous recent value 
+dframe <- dframe %>% fill(Value,.direction = "down")
+
 # as tibble
-dframe <- as_tibble(dframe)
+dframe <- as_tibble(dframe) %>% 
+  mutate(Date = as.Date(date)) %>% 
+  select(Date,Value)
 dframe
 
-# Plots ok
+
+# Plots 
 plot(dframe, type="l")
-dframe %>% ggplot(aes(x=Date, y=Value)) + geom_line() + theme_bw()
+
+dframe %>% 
+  ggplot(aes(x=Date, y=Value)) + 
+  geom_line() + theme_bw()
 
 # Note the ordering of dates!
 dframe 
@@ -37,15 +49,18 @@ dframe %>% arrange(Date) %>% head()
 dframe <- dframe %>% arrange(Date)
 
 # How to measure returns
-browseURL("https://en.wikipedia.org/wiki/Rate_of_return")
+#browseURL("https://en.wikipedia.org/wiki/Rate_of_return")
 
 # Arithmetic returns, looses first observation
-dframe %>% mutate(arit_ret = (Value - lag(Value))/lag(Value)) %>% head()
+dframe %>% 
+  mutate(arit_ret = (Value - lag(Value))/lag(Value)) %>% 
+  head()
 
 # Returns over time, geometric mean
 # Note that we set the first observation (of this index) equal to 1
-dframe %>% mutate(arit_ret = (Value - lag(Value))/lag(Value),
-                  comp_arit_ret = c(1, cumprod(1+na.omit(arit_ret)))) %>% head()                  
+dframe %>%
+  mutate(arit_ret = (Value - lag(Value))/lag(Value),
+          comp_arit_ret = c(1, cumprod(1+na.omit(arit_ret)))) %>% head()                  
 
 # Logarithmic (or log-returns), commonly used in economic models
 dframe %>% mutate(log_ret = log(Value) - log(lag(Value))) %>% head()
@@ -55,16 +70,19 @@ dframe %>% mutate(log_ret = log(Value/lag(Value))) %>% head()
 dframe %>% mutate(log_ret = c(NA,diff(log(Value)))) %>% head()
 
 # Compounding log returns
-dframe %>% mutate(log_ret = log(Value/lag(Value)),
-                  comp_log_ret = c(1, 1+cumsum(na.omit(log_ret)))) %>% head() # see https://rpubs.com/esteban926/978486
+dframe %>% 
+  mutate(log_ret = log(Value/lag(Value)),
+         comp_log_ret = c(1, 1+cumsum(na.omit(log_ret)))) %>% head() # see https://rpubs.com/esteban926/978486
 
 
 # Update dataframe with log returns
-dframe <- dframe %>% mutate(log_ret = log(Value/lag(Value)),
-                            comp_log_ret = c(1, 1+cumsum(na.omit(log_ret))))
+dframe <- dframe %>%
+  mutate(log_ret = log(Value/lag(Value)),
+        comp_log_ret = c(1, 1+cumsum(na.omit(log_ret))))
 
 # plot log returns
-dframe %>% ggplot(aes(x=Date, y=log_ret)) + geom_line()
+dframe %>%
+  ggplot(aes(x=Date, y=log_ret)) + geom_line()
 
 mosaic::favstats(~log_ret, data = dframe)
 
@@ -87,14 +105,10 @@ dframe <- dframe %>%
 dframe %>% 
   ggplot(aes(x=Date, y=new_comp_log_ret)) + geom_line()
 
+# ----------------------------
 
-##########################
-# Time series packages
-##########################
-
-# Remove dframe
-rm(dframe)
-
+# Rename dframe back to oil 
+oil <- dframe
 ggplot(oil, aes(x=Date, y=Value)) + geom_line(color = "#20A0E0") + 
   ggtitle("Daily Crude Oil Prices") + theme_bw()
 
@@ -106,10 +120,16 @@ oil %>% head()
 oil <- oil %>% arrange(Date)
 head(oil)
 
-#########
+#-----------------------
+
+
+# Read Quandl data
+
 # Gold prices, US$ per troy ounce
-#########
-browseURL("https://www.quandl.com/data/LBMA/GOLD-Gold-Price-London-Fixing")
+
+#browseURL("https://www.quandl.com/tools/r")
+
+#browseURL("https://www.quandl.com/data/LBMA/GOLD-Gold-Price-London-Fixing")
 
 # The London Gold Fix involves gold dealers from London's five biggest bullion banks
 # establishing a common transaction price for a large pool of purchase and sale orders.
@@ -129,18 +149,24 @@ names(gold) <- c("Date","USD_AM","USD_PM","GBP_AM","GBP_PM","EURO_AM","EURO_PM")
 gold_Quandl <- gold
 
 # Pick one price
-gold <- gold %>% select(Date, USD_PM)
+gold <- gold %>% select(Date, USD_PM) 
 
 # daily gpld prices
 ggplot(gold, aes(x=Date, y=USD_PM)) + geom_line(color = "#FC4E07") + 
   ggtitle("US$ per troy ounce") + theme_bw()
 
 
-############################
-# calculate monthly averages....from the daily values 
-############################
 
-# Tsibble
+# calculate monthly averages....from the daily values 
+
+library(tsibble)
+# Coerce to a tsibble with as_tsibble() 
+# To coerce a data frame to tsibble, we need to declare key and index.
+# index: a variable that represents time
+# key: identifying variables that define series
+
+# You cab read more about Tsibble On: 
+browseURL("https://cran.rstudio.com/web/packages/tsibble/vignettes/intro-tsibble.html")
 browseURL("https://github.com/tidyverts/tsibble")
 browseURL("https://tsibble.tidyverts.org/")
 
@@ -151,13 +177,6 @@ browseURL("https://blog.earo.me/2018/02/06/tsibble-or-tibbletime/")
 #browseURL("https://tsibble.tidyverts.org/articles/intro-tsibble.html")
 #browseURL("https://otexts.com/fpp3/tsibbles.html")
 
-
-
-library(tsibble)
-# Coerce to a tsibble with as_tsibble() 
-# To coerce a data frame to tsibble, we need to declare key and index.
-# index: a variable that represents time
-# key: identifying variables that define series
 
 head(oil)
 str(oil)
@@ -179,23 +198,22 @@ head(oil_month)
 str(oil_month)
 
 gold_month <- as_tsibble(gold, index = Date) %>% 
-  index_by(year_month=yearmonth(Date)) %>% # monthly aggregates
+  index_by(year_month=yearmonth(Date)) %>% 
   summarise(gold_avg = mean(USD_PM, na.rm = TRUE))
 
 head(gold_month)
 str(gold_month)
 
-# Merge by date, Oil is the shortest
+# Merge by date
 dframe <- left_join(oil_month, gold_month, by="year_month")
 
 head(dframe)
 tail(dframe)
 
-#############
-# From wide to long to use in ggplot
-# https://uc-r.github.io/tidyr
-#browseURL("https://blog.methodsconsultants.com/posts/data-pivoting-with-tidyr/")
+dframe <- dframe %>% drop_na()
 
+
+# change data from wide to long 
 dframe.long <- dframe %>% 
      pivot_longer(-year_month,
                   names_to = "commodity",
@@ -205,16 +223,11 @@ head(dframe.long)
 str(dframe.long)
 
 dframe.long %>%
-  ggplot(aes(x=year_month, y=price, col=commodity)) + geom_line()
+  ggplot(aes(x=year_month, y=price, col=commodity)) +
+  geom_line()
 
+# Question to you: Rebase this plot using the Jan 2005 values=100
 
-##########################################################################
-# Q: Rebase this plot using the Jan 2005 values=100
-##########################################################################
-
-# browseURL("https://pkg.earo.me/tsibble/")
-# browseURL("https://cran.rstudio.com/web/packages/tsibble/vignettes/intro-tsibble.html")
-# browseURL("https://cran.r-project.org/web/packages/tsibble/vignettes/window.html")
 
 
 # Rolling 12 month correlation
@@ -253,11 +266,9 @@ dframe.long %>%
 
 # The broom equivalent for time series, sweep
 browseURL("https://business-science.github.io/sweep/index.html")
-
 browseURL("https://slides.earo.me/rstudioconf19/#1")
-
+#Dynamic harmonic regression: 
 browseURL("https://otexts.com/fpp3/dhr.html")
 
-##########################################################################
+
 # Q: Create a dataframe that is the weekly average prices and plot it
-##########################################################################
