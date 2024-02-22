@@ -98,16 +98,6 @@ tm1 - 30
 # find the difference between times:
 tm2 - tm1
 
-# automatically adjusts for daylight savings time:
-#as.POSIXct("2022-03-29 23:32:07") - as.POSIXct("2022-03-30 03:45:26")
-#browseURL("https://www.timeanddate.com/time/change/norway/oslo")
-as.POSIXct("2022-03-27 1:59:59")+dseconds(1)
-as.POSIXct("2022-03-27 3:00:00") - as.POSIXct("2022-03-27 1:59:59")
-
-# In 2023
-as.POSIXct("2023-03-26 01:59:59") +dseconds(1)
-as.POSIXct("2023-03-26 01:59:59")-as.POSIXct("2023-03-26 03:00:00")
-
 # get the current time (in POSIXct by default):
 Sys.time()
 
