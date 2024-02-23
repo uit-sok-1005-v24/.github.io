@@ -33,8 +33,8 @@ dt3 <- as.Date("October 6, 2020", format = "%B %d, %Y")
 dt3
 
 #convert between character and time objects.
-?strptime #convert characters to time objects.
-?strftime #converts time objects to characters
+?strptime 
+?strftime 
 #browseURL("https://www.statology.org/strptime-strftime-r/")
 
 
