@@ -80,6 +80,9 @@ dt1 - as.Date("1970-01-01")
 tm1 <- as.POSIXct("2020-07-25 07:35:26")
 tm1
 
+# but if you use as.Date()
+as.Date("2020-07-25 07:35:26") # the time component is gone 
+
 tm2 <- as.POSIXct("25072020 08:32:07", format = "%d%m%Y %H:%M:%S")
 tm2
 
