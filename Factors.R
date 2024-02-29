@@ -1,5 +1,6 @@
 
 # Factors
+browseURL("https://www.flutterbys.com.au/stats/downloads/slides/figure/factors.pdf")
 
 # the forcats package in tidyverse
 rm(list = ls())
