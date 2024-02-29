@@ -52,6 +52,8 @@
 | 1/3 | 8 | *Categorical Data and Communicating with Data* |
 |  |  | Categorical Data in the Tidyverse [datacamp](https://app.datacamp.com/learn/courses/categorical-data-in-the-tidyverse){:target='_blank_'} |
 |  |  | Exploratory data analysis in r [datacamp](https://app.datacamp.com/learn/courses/exploratory-data-analysis-in-r){:target='_blank_'} |
+|||[R codes on factors](https://github.com/uit-sok-1005-v24/uit-sok-1005-v24.github.io/blob/main/Factors.R){:target='_blank_'}|
+|||[Data Wrangling Practice.R](https://github.com/uit-sok-1005-v24/uit-sok-1005-v24.github.io/blob/main/Data%20Wrangling%20Practice.R){:target='_blank_'}|
 | 1/3 | **Deadline** | Levere obligatorisk [Mappeoppgave 2](https://uit-sok-1005-v24.github.io/us_births.pdf){:target='_blank_'} |
 | 8/3 | 9 | *Functions and functional programming* |
 |      |    | Seksjon "Program" i [RfDC](https://r4ds.hadley.nz/){:target='_blank_'} |
