@@ -62,7 +62,7 @@
 | | | Hadley Wickham, the creator of purrr, [talks about v.1](https://www.youtube.com/watch?v=EGAs7zuRutY){:target='_blank_'}  |
 | | | [purrr cheat sheet](https://uit-sok-1005-v24.github.io/purrr.pdf){:target='_blank_'}  |
 | | | [R kode](https://raw.githubusercontent.com/uit-sok-1005-v24/uit-sok-1005-v24.github.io/main/map_vs_loop.R){:target='_blank_'} |
-| | | Fra Canvas, last ned "many_csv_files.zip" lokalt  |
+| | | Fra Canvas / Filer, last ned "many_csv_files.zip" lokalt  |
 | | | [R kode lese csv's](https://raw.githubusercontent.com/uit-sok-1005-v24/uit-sok-1005-v24.github.io/main/read_many_csvs.R){:target='_blank_'}  |
 | 15/3 | 10 | *More on purrr and introducing shiny* |
 |  |  | Intermediate Functional Programming with purrr [datacamp](https://app.datacamp.com/learn/courses/intermediate-functional-programming-with-purrr){:target='_blank_'} |   
