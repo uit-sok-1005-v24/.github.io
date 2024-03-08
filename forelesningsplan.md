@@ -58,7 +58,9 @@
 | 8/3 | 9 | *Functions and functional programming* |
 |      |    | Seksjon "Program" i [RfDC](https://r4ds.hadley.nz/){:target='_blank_'} |
 |  |  | Introduction to Writing Functions in R [datacamp](https://app.datacamp.com/learn/courses/introduction-to-writing-functions-in-r){:target='_blank_'} |   
-| | | Foundations of Functional Programming with purrr [datacamp](https://app.datacamp.com/learn/courses/foundations-of-functional-programming-with-purrr){:target='_blank_'} |   
+| | | Foundations of Functional Programming with purrr [datacamp](https://app.datacamp.com/learn/courses/foundations-of-functional-programming-with-purrr){:target='_blank_'} | 
+| | | Hadley Wickham, the creator of purrr, [talks about v.1](https://www.youtube.com/watch?v=EGAs7zuRutY){:target='_blank_'}  |
+| | |   |
 | 15/3 | 10 | *More on purrr and introducing shiny* |
 |  |  | Intermediate Functional Programming with purrr [datacamp](https://app.datacamp.com/learn/courses/intermediate-functional-programming-with-purrr){:target='_blank_'} |   
 |  |  | Building Dashboards with shinydashboard [datacamp](https://app.datacamp.com/learn/courses/building-dashboards-with-shinydashboard){:target='_blank_'} | 
