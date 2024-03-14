@@ -70,6 +70,7 @@
 |  |  | Building Dashboards with shinydashboard [datacamp](https://app.datacamp.com/learn/courses/building-dashboards-with-shinydashboard){:target='_blank_'} | 
 |  |  | [R kode purrr](https://raw.githubusercontent.com/uit-sok-1005-v24/uit-sok-1005-v24.github.io/main/purrr_2.R){:target='_blank_'}  |
 |  |  | [R kode funksjoner](https://raw.githubusercontent.com/uit-sok-1005-v24/uit-sok-1005-v24.github.io/main/more_on_functions.R){:target='_blank_'}  |
+|  |  | [Shiny - easy web apps for data science](https://shiny.posit.co/){:target='_blank_'} |
 |  |  | [R kode Shiny demo's](https://raw.githubusercontent.com/uit-sok-1005-v24/uit-sok-1005-v24.github.io/main/shiny_demos.R){:target='_blank_'}  |
 |  |  |  [R kode Shiny quarto html](https://raw.githubusercontent.com/uit-sok-1005-v24/uit-sok-1005-v24.github.io/main/hello_interactive_html_shiny.qmd){:target='_blank_'} |
 | 22/3 | 11 | *R Markdown/Quarto* |
