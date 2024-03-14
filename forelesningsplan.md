@@ -68,6 +68,10 @@
 |  |  | Intermediate Functional Programming with purrr [datacamp](https://app.datacamp.com/learn/courses/intermediate-functional-programming-with-purrr){:target='_blank_'} |   
 | |   | [Advanced R](https://adv-r.hadley.nz/){:target='_blank_'}) |
 |  |  | Building Dashboards with shinydashboard [datacamp](https://app.datacamp.com/learn/courses/building-dashboards-with-shinydashboard){:target='_blank_'} | 
+|  |  | [R kode purrr](https://raw.githubusercontent.com/uit-sok-1005-v24/uit-sok-1005-v24.github.io/main/purrr_2.R){:target='_blank_'}  |
+|  |  | [R kode funksjoner](https://raw.githubusercontent.com/uit-sok-1005-v24/uit-sok-1005-v24.github.io/main/more_on_functions.R){:target='_blank_'}  |
+|  |  | [R kode Shiny demo's](https://raw.githubusercontent.com/uit-sok-1005-v24/uit-sok-1005-v24.github.io/main/shiny_demos.R){:target='_blank_'}  |
+|  |  |  [R kode Shiny quarto html](https://raw.githubusercontent.com/uit-sok-1005-v24/uit-sok-1005-v24.github.io/main/hello_interactive_html_shiny.qmd){:target='_blank_'} |
 | 22/3 | 11 | *R Markdown/Quarto* |
 |  |  | Building web applications with shiny in r [datacamp](https://app.datacamp.com/learn/courses/building-web-applications-with-shiny-in-r){:target='_blank_'} | 
 |      |   | Reporting with R Markdown [datacamp](https://app.datacamp.com/learn/courses/reporting-with-rmarkdown){:target='_blank_'} |
