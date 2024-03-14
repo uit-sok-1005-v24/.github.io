@@ -25,7 +25,7 @@ gapminder %>%
                        .id = "variable")
 
 ########################################
-# Maps with multiple input objects
+# mapping with multiple input objects
 ####################################
 
 # Create a list of plots that compare life expectancy and GDP per capita 
