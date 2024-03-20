@@ -79,6 +79,7 @@
 |      |   | R Markdown from RStudio [15 lessons with videos](https://rmarkdown.rstudio.com/lesson-1.html){:target='_blank_'} |
 |      |   | [Quarto](https://quarto.org/){:target='_blank_'}               |
 | 5/4 | **Deadline** | Levere obligatorisk [Mappeoppgave 3](https://uit-sok-1005-v24.github.io/skrape_brreg.pdf){:target='_blank_'} |
+||| [Some resource on webscraping](https://uit-sok-1005-v23.github.io/Web_scraping.html){:target='_blank_'}|
 | 5/4 | 12 | [8 - Git, IDE'er og et lite spill](https://espensirnes.github.io/notebooks/html/8%20-%20Git,%20IDE'er%20og%20et%20lite%20spill.html) |
 | 12/4 | 13 | [9 - webskraping med python](https://espensirnes.github.io/notebooks/html/9%20-%20webskraping%20med%20python.html) |
 | 19/4 | 14 | [10 - statsmodels](https://espensirnes.github.io/notebooks/html/10%20-%20statsmodels.html) |
