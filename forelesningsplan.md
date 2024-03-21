@@ -78,6 +78,7 @@
 |      |   | Reporting with R Markdown [datacamp](https://app.datacamp.com/learn/courses/reporting-with-rmarkdown){:target='_blank_'} |
 |      |   | R Markdown from RStudio [15 lessons with videos](https://rmarkdown.rstudio.com/lesson-1.html){:target='_blank_'} |
 |      |   | [Quarto](https://quarto.org/){:target='_blank_'}               |
+|     |    | [Quarto, kap 28 i r4ds](https://r4ds.hadley.nz/quarto){:target='_blank_'} |
 |     |    | [Reproduserbar rapport i Quarto](https://github.com/paulcbauer/Writing_a_reproducable_paper_with_quarto/){:target='_blank_'} på github. Her ligger den ferdigkompilerte pdf fila, samt quartofila |
 | 5/4 | **Deadline** | Levere obligatorisk [Mappeoppgave 3](https://uit-sok-1005-v24.github.io/skrape_brreg.pdf){:target='_blank_'} |
 ||| [Some resource on webscraping](https://uit-sok-1005-v23.github.io/Web_scraping.html){:target='_blank_'}|
