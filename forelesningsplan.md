@@ -78,7 +78,7 @@
 |      |   | Reporting with R Markdown [datacamp](https://app.datacamp.com/learn/courses/reporting-with-rmarkdown){:target='_blank_'} |
 |      |   | R Markdown from RStudio [15 lessons with videos](https://rmarkdown.rstudio.com/lesson-1.html){:target='_blank_'} |
 |      |   | [Quarto](https://quarto.org/){:target='_blank_'}               |
-|     |    | [Reproduserbar rapport i Quarto](https://github.com/paulcbauer/Writing_a_reproducable_paper_with_quarto/) på github. Her ligger den ferdigkompilerte pdf fila, samt quartofila |
+|     |    | [Reproduserbar rapport i Quarto](https://github.com/paulcbauer/Writing_a_reproducable_paper_with_quarto/){:target='_blank_'} på github. Her ligger den ferdigkompilerte pdf fila, samt quartofila |
 | 5/4 | **Deadline** | Levere obligatorisk [Mappeoppgave 3](https://uit-sok-1005-v24.github.io/skrape_brreg.pdf){:target='_blank_'} |
 ||| [Some resource on webscraping](https://uit-sok-1005-v23.github.io/Web_scraping.html){:target='_blank_'}|
 | 5/4 | 12 | [8 - Git, IDE'er og et lite spill](https://espensirnes.github.io/notebooks/html/8%20-%20Git,%20IDE'er%20og%20et%20lite%20spill.html) |
