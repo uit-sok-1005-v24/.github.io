@@ -87,4 +87,4 @@
 | 19/4 | 14 | [10 - statsmodels](https://espensirnes.github.io/notebooks/html/10%20-%20statsmodels.html) |
 | 26/4 | 15 | [11 - interaktive websider](https://espensirnes.github.io/notebooks/html/11%20-%20interaktive%20websider.html)|
 | 30/4 | 16 | [12 - animasjon og klasse](https://espensirnes.github.io/notebooks/html/12%20-%20animasjon%20med%20klasse.html)|
-
+| 31/5 | **Deadline** | Levere obligatorisk [Prosjektoppgave](https://uit-sok-1005-v24.github.io/prosjektoppgave.pdf){:target='_blank_'} |
